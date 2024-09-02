@@ -1,0 +1,13 @@
+astor==0.8.1
+beautifulsoup4==4.12.3
+datasets==2.20.0
+faiss_cpu==1.8.0
+langchain==0.2.15
+langchain_community==0.2.15
+langchain_core==0.2.37
+langchain_openai==0.1.23
+openai==1.43.0
+packaging==24.1
+python-dotenv==1.0.1
+tenacity==8.5.0
+tqdm==4.66.4
