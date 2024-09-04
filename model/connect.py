@@ -22,7 +22,7 @@ class Openai:
             model=self.model_name,
             openai_api_key=self.api_key,
             temperature=self.temperature,
-            model_kwargs={"top_p": self.top_p}
+            top_p=self.top_p
         )
         self.prompt_list_history = []
         self.input_dict_history = {}
